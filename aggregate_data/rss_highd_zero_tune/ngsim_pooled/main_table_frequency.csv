@@ -1,0 +1,6 @@
+controller,saturation,delta_abs_q50_s,delta_abs_q90_s,delta_abs_q95_s,delta_rel_q90_s,dataset,weight_mode,controller_label,n_instances,sat_gap_vs_star,delta90_penalty_vs_star_s,delta_rel90_penalty_vs_star_s
+star,0.9943750256613791,0.95,1.5,1.7,1.5,ngsim_pooled,frequency,Upper bound,219201,0.0,0.0,0.0
+pi,0.4998334861611032,,,,1.55,ngsim_pooled,frequency,Weak TTC,219201,0.49454153950027596,,0.050000000000000044
+pi_tuned,0.9492931145387109,0.95,1.7,,1.5,ngsim_pooled,frequency,Strong TTC,219201,0.04508191112266824,0.19999999999999996,0.0
+pi_sd,0.9614463437666797,0.95,1.55,1.95,1.45,ngsim_pooled,frequency,Stopping-distance,219201,0.03292868189469944,0.050000000000000044,-0.050000000000000044
+rss_longitudinal,0.9542383474527943,0.95,1.6,2.25,1.45,ngsim_pooled,frequency,RSS longitudinal,219201,0.0401366782085848,0.10000000000000009,-0.050000000000000044

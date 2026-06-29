@@ -1,0 +1,6 @@
+controller,saturation,delta_abs_q50_s,delta_abs_q90_s,delta_abs_q95_s,delta_rel_q90_s,dataset,weight_mode,controller_label,n_instances,sat_gap_vs_star,delta90_penalty_vs_star_s,delta_rel90_penalty_vs_star_s
+star,0.9970844266733314,1.15,1.85,2.1,1.8,highd_external,frequency,Upper bound,24009,0.0,0.0,0.0
+pi,0.6736223916031492,1.4,,,1.75,highd_external,frequency,Weak TTC,24009,0.32346203507018223,,-0.050000000000000044
+pi_tuned,0.9736765379649304,1.15,1.9,2.3,1.8,highd_external,frequency,Strong TTC,24009,0.023407888708401048,0.04999999999999982,0.0
+pi_sd,0.9937523428714238,1.15,1.85,2.15,1.8,highd_external,frequency,Stopping-distance,24009,0.003332083801907637,0.0,0.0
+rss_longitudinal,0.9914198842100884,1.15,1.85,2.15,1.8,highd_external,frequency,RSS longitudinal,24009,0.005664542463242994,0.0,0.0

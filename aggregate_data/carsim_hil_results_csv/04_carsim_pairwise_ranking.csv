@@ -1,0 +1,8 @@
+Slice,Pair,Boundary Gap (s),Ranking Preserved (%),Interpretation
+braking_lead_only,pi_tuned_vs_pi_sd,-0.01,71.0,Strong TTC and Stopping-distance are nearly tied for braking-lead cases.
+stationary_lead_only,pi_tuned_vs_pi_sd,0.04,76.0,Stopping-distance is slightly better for stationary-lead cases but remains close.
+combined_core_matrix,pi_tuned_vs_pi_sd,0.02,74.0,The two controllers are close overall so no global winner is assigned.
+ranking_check_subset,pi_vs_pi_sd,0.39,98.0,Weak TTC remains clearly worse than the stronger reference.
+ranking_check_subset,pi_vs_pi_tuned,0.42,99.0,Weak TTC is clearly worse and provides enough separation.
+combined_core_matrix,star_vs_pi_sd,0.09,97.0,Upper bound remains a clear reference above Stopping-distance.
+combined_core_matrix,star_vs_pi_tuned,0.11,96.0,Upper bound remains better without overstating the margin.

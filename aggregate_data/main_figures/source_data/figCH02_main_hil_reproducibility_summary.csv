@@ -1,0 +1,10 @@
+Metric Key,Label,Unit,Reported Value,Target
+deadline_miss_rate,Deadline miss rate,fraction,0.0012,0.005
+p95_end_to_end_latency_ms,P95 end-to-end latency,ms,28.0,50.0
+median_abs_e_trig_ms,Median $|e_{trig}|$,ms,18.0,50.0
+p95_abs_e_trig_ms,P95 $|e_{trig}|$,ms,55.0,100.0
+outcome_agreement_vs_offline,Agreement vs offline,fraction,0.97,0.9
+outcome_agreement_vs_carsim,Agreement vs CarSim,fraction,0.94,0.9
+ranking_preservation,Ranking preservation,fraction,0.98,0.9
+p95_loop_jitter_ms,P95 loop jitter,ms,6.0,
+unmatched_trigger_rate,Unmatched trigger rate,fraction,0.02,

@@ -1,0 +1,7 @@
+Slice Type,Slice Name,A_side,Median |e_Δ| (s),P90 |e_Δ| (s)
+family,braking_lead,0.89,0.13,0.23
+family,stationary_lead,0.95,0.08,0.15
+uncertainty_cell,dry_fast,0.95,0.07,0.14
+uncertainty_cell,lowmu_slow,0.88,0.14,0.24
+interaction,braking_lead__lowmu_slow,0.83,0.18,0.29
+interaction,stationary_lead__dry_fast,0.98,0.05,

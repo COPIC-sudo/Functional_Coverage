@@ -1,0 +1,49 @@
+controller,saturation,delta_abs_q50_s,delta_abs_q90_s,delta_abs_q95_s,delta_rel_q90_s,dataset,weight_mode,controller_label,n_instances,sat_gap_vs_star,delta90_penalty_vs_star_s,delta_rel90_penalty_vs_star_s,family
+star,0.9941523714354448,1.2,1.7,1.9,1.7,us101,frequency,Upper bound,54039,0.0,0.0,0.0,braking_lead
+pi,0.4937175003238403,,,,1.6,us101,frequency,Weak TTC,54039,0.5004348711116046,,-0.0999999999999998,braking_lead
+pi_tuned,0.9446510853272636,1.2,1.85,,1.7,us101,frequency,Strong TTC,54039,0.0495012861081811,0.1500000000000001,0.0,braking_lead
+pi_sd,0.9441884564851312,1.2,1.8,,1.65,us101,frequency,Stopping-distance,54039,0.0499639149503137,0.1,-0.05,braking_lead
+star,0.9844717676641136,1.35,1.95,2.2,1.9,us101,severity,Upper bound,54039,0.0,0.0,0.0,braking_lead
+pi,0.4407666950554865,,,,1.65,us101,severity,Weak TTC,54039,0.543705072608627,,-0.25,braking_lead
+pi_tuned,0.9090993037986788,1.35,2.35,,1.85,us101,severity,Strong TTC,54039,0.0753724638654347,0.4000000000000001,-0.0499999999999998,braking_lead
+pi_sd,0.9197330916334516,1.35,2.15,,1.8,us101,severity,Stopping-distance,54039,0.0647386760306619,0.1999999999999999,-0.0999999999999998,braking_lead
+star,0.9955989496652988,0.7,1.0,1.1,1.0,us101,frequency,Upper bound,27039,0.0,0.0,0.0,slower_lead
+pi,0.5652945745034952,1.2,,,1.3,us101,frequency,Weak TTC,27039,0.4303043751618035,,0.3,slower_lead
+pi_tuned,0.9845778320204156,0.7,1.0,1.15,1.0,us101,frequency,Strong TTC,27039,0.0110211176448832,0.0,0.0,slower_lead
+pi_sd,0.9952291135027188,0.7,1.0,1.1,1.0,us101,frequency,Stopping-distance,27039,0.00036983616258,0.0,0.0,slower_lead
+star,0.9539173639621984,0.8,1.25,1.65,1.15,us101,severity,Upper bound,27039,0.0,0.0,0.0,slower_lead
+pi,0.5572643339855907,1.45,,,1.5,us101,severity,Weak TTC,27039,0.3966530299766077,,0.3500000000000001,slower_lead
+pi_tuned,0.9442576459941188,0.8,1.3,,1.15,us101,severity,Strong TTC,27039,0.0096597179680797,0.05,0.0,slower_lead
+pi_sd,0.9536558280431552,0.8,1.25,1.7,1.15,us101,severity,Stopping-distance,27039,0.0002615359190433,0.0,0.0,slower_lead
+star,0.983553597650514,0.65,0.85,0.9,0.8,us101,frequency,Upper bound,3405,0.0,0.0,0.0,stationary_lead
+pi,0.3233480176211454,,,,1.1,us101,frequency,Weak TTC,3405,0.6602055800293685,,0.3,stationary_lead
+pi_tuned,0.8737151248164463,0.65,,,0.85,us101,frequency,Strong TTC,3405,0.1098384728340675,,0.0499999999999999,stationary_lead
+pi_sd,0.9826725403817914,0.65,0.85,0.95,0.8,us101,frequency,Stopping-distance,3405,0.0008810572687224,0.0,0.0,stationary_lead
+star,0.8213745142567683,0.7,,,1.0,us101,severity,Upper bound,3405,0.0,,0.0,stationary_lead
+pi,0.2870423064668346,,,,1.55,us101,severity,Weak TTC,3405,0.5343322077899337,,0.55,stationary_lead
+pi_tuned,0.7399114214923437,0.75,,,1.25,us101,severity,Strong TTC,3405,0.0814630927644246,,0.25,stationary_lead
+pi_sd,0.8200535070372615,0.7,,,1.0,us101,severity,Stopping-distance,3405,0.0013210072195067,,0.0,stationary_lead
+star,0.9929804117418578,1.1,1.6,1.8,1.6,i80,frequency,Upper bound,72084,0.0,0.0,0.0,braking_lead
+pi,0.5142195216691642,1.9,,,1.6,i80,frequency,Weak TTC,72084,0.4787608900726936,,0.0,braking_lead
+pi_tuned,0.947921868930693,1.15,1.75,,1.6,i80,frequency,Strong TTC,72084,0.0450585428111648,0.1499999999999999,0.0,braking_lead
+pi_sd,0.9323150768547817,1.1,1.75,,1.55,i80,frequency,Stopping-distance,72084,0.0606653348870762,0.1499999999999999,-0.05,braking_lead
+star,0.9768428918706188,1.3,1.95,2.3,1.85,i80,severity,Upper bound,72084,0.0,0.0,0.0,braking_lead
+pi,0.466816608524456,,,,1.65,i80,severity,Weak TTC,72084,0.5100262833461626,,-0.2000000000000001,braking_lead
+pi_tuned,0.9081192384347382,1.3,2.4,,1.8,i80,severity,Strong TTC,72084,0.0687236534358805,0.4499999999999999,-0.05,braking_lead
+pi_sd,0.8906517064144411,1.3,,,1.75,i80,severity,Stopping-distance,72084,0.0861911854561775,,-0.1,braking_lead
+star,0.9962831253892672,0.7,1.0,1.1,1.0,i80,frequency,Upper bound,49773,0.0,0.0,0.0,slower_lead
+pi,0.5030438189379783,2.55,,,1.35,i80,frequency,Weak TTC,49773,0.493239306451289,,0.3500000000000001,slower_lead
+pi_tuned,0.9623490647539832,0.7,1.1,1.55,1.0,i80,frequency,Strong TTC,49773,0.0339340606352842,0.1,0.0,slower_lead
+pi_sd,0.9945954634038536,0.7,1.0,1.1,1.0,i80,frequency,Stopping-distance,49773,0.0016876619854138,0.0,0.0,slower_lead
+star,0.960094034258661,0.75,1.3,1.8,1.2,i80,severity,Upper bound,49773,0.0,0.0,0.0,slower_lead
+pi,0.5080805934164622,2.45,,,1.55,i80,severity,Weak TTC,49773,0.4520134408421988,,0.3500000000000001,slower_lead
+pi_tuned,0.9328519455398436,0.8,1.5,,1.2,i80,severity,Strong TTC,49773,0.0272420887188173,0.1999999999999999,0.0,slower_lead
+pi_sd,0.9582595182846334,0.75,1.3,1.85,1.2,i80,severity,Stopping-distance,49773,0.0018345159740276,0.0,0.0,slower_lead
+star,0.9960345229764404,0.65,0.85,0.95,0.85,i80,frequency,Upper bound,12861,0.0,0.0,0.0,stationary_lead
+pi,0.341575305186222,,,,1.1,i80,frequency,Weak TTC,12861,0.6544592177902184,,0.2500000000000001,stationary_lead
+pi_tuned,0.871782909571573,0.65,,,0.85,i80,frequency,Strong TTC,12861,0.1242516134048674,,0.0,stationary_lead
+pi_sd,0.992302309307208,0.65,0.85,0.95,0.85,i80,frequency,Stopping-distance,12861,0.0037322136692325,0.0,0.0,stationary_lead
+star,0.9513735309438952,0.65,1.2,2.25,0.95,i80,severity,Upper bound,12861,0.0,0.0,0.0,stationary_lead
+pi,0.3457602684913952,,,,1.45,i80,severity,Weak TTC,12861,0.6056132624525001,,0.5,stationary_lead
+pi_tuned,0.843609752640885,0.7,,,1.05,i80,severity,Strong TTC,12861,0.1077637783030103,,0.1,stationary_lead
+pi_sd,0.9420589950964784,0.65,1.2,,0.95,i80,severity,Stopping-distance,12861,0.0093145358474169,0.0,0.0,stationary_lead

@@ -1,0 +1,321 @@
+dataset,weight_mode,controller,controller_label,metric,value,ci_low,ci_high,n_boot
+us101,frequency,star,Upper bound,saturation,0.9941881798705066,0.993418794313649,0.9947681782133685,400
+us101,frequency,star,Upper bound,delta_abs_q50_s,1.0,1.0,1.0,400
+us101,frequency,star,Upper bound,delta_abs_q90_s,1.6,1.6,1.6,400
+us101,frequency,star,Upper bound,delta_abs_q95_s,1.8,1.8,1.8,400
+us101,frequency,star,Upper bound,delta_rel_q90_s,1.55,1.55,1.6,400
+us101,frequency,star,Upper bound,sat_gap_vs_star,0.0,0.0,0.0,400
+us101,frequency,star,Upper bound,delta90_penalty_vs_star_s,0.0,0.0,0.0,400
+us101,frequency,star,Upper bound,delta_rel90_penalty_vs_star_s,0.0,0.0,0.0,400
+us101,frequency,pi,Weak TTC,saturation,0.5097593598712169,0.5062554004947744,0.5137604606843982,400
+us101,frequency,pi,Weak TTC,delta_abs_q50_s,2.3,2.15,2.4,400
+us101,frequency,pi,Weak TTC,delta_abs_q90_s,,,,400
+us101,frequency,pi,Weak TTC,delta_abs_q95_s,,,,400
+us101,frequency,pi,Weak TTC,delta_rel_q90_s,1.55,1.55,1.6,400
+us101,frequency,pi,Weak TTC,sat_gap_vs_star,0.48442881999928966,0.480556739225643,0.4878147082845069,400
+us101,frequency,pi,Weak TTC,delta90_penalty_vs_star_s,,,,400
+us101,frequency,pi,Weak TTC,delta_rel90_penalty_vs_star_s,0.0,-0.050000000000000044,0.050000000000000044,400
+us101,frequency,pi_tuned,Strong TTC,saturation,0.9545707420427779,0.9529606548062926,0.9563350023081568,400
+us101,frequency,pi_tuned,Strong TTC,delta_abs_q50_s,1.05,1.05,1.05,400
+us101,frequency,pi_tuned,Strong TTC,delta_abs_q90_s,1.7,1.7,1.75,400
+us101,frequency,pi_tuned,Strong TTC,delta_abs_q95_s,2.3,2.25,2.45,400
+us101,frequency,pi_tuned,Strong TTC,delta_rel_q90_s,1.55,1.55,1.55,400
+us101,frequency,pi_tuned,Strong TTC,sat_gap_vs_star,0.03961743782772864,0.03816063586757098,0.04120355574494272,400
+us101,frequency,pi_tuned,Strong TTC,delta90_penalty_vs_star_s,0.09999999999999987,0.09999999999999987,0.1499999999999999,400
+us101,frequency,pi_tuned,Strong TTC,delta_rel90_penalty_vs_star_s,0.0,-0.050000000000000044,0.0,400
+us101,frequency,pi_sd,Stopping-distance,saturation,0.9620752103973582,0.960536439283643,0.9636379508303446,400
+us101,frequency,pi_sd,Stopping-distance,delta_abs_q50_s,1.0,1.0,1.05,400
+us101,frequency,pi_sd,Stopping-distance,delta_abs_q90_s,1.65,1.65,1.65,400
+us101,frequency,pi_sd,Stopping-distance,delta_abs_q95_s,2.0,1.95,2.05,400
+us101,frequency,pi_sd,Stopping-distance,delta_rel_q90_s,1.55,1.55,1.55,400
+us101,frequency,pi_sd,Stopping-distance,sat_gap_vs_star,0.032112969473148345,0.030798799758531233,0.033486618609661165,400
+us101,frequency,pi_sd,Stopping-distance,delta90_penalty_vs_star_s,0.04999999999999982,0.04999999999999982,0.04999999999999982,400
+us101,frequency,pi_sd,Stopping-distance,delta_rel90_penalty_vs_star_s,0.0,-0.050000000000000044,0.0,400
+us101,frequency,rss_longitudinal,RSS longitudinal,saturation,0.9545470686410285,0.9527117881704013,0.9560384929512448,400
+us101,frequency,rss_longitudinal,RSS longitudinal,delta_abs_q50_s,1.0,1.0,1.05,400
+us101,frequency,rss_longitudinal,RSS longitudinal,delta_abs_q90_s,1.7,1.7,1.7,400
+us101,frequency,rss_longitudinal,RSS longitudinal,delta_abs_q95_s,2.35,2.25,2.45,400
+us101,frequency,rss_longitudinal,RSS longitudinal,delta_rel_q90_s,1.55,1.55,1.55,400
+us101,frequency,rss_longitudinal,RSS longitudinal,sat_gap_vs_star,0.03964111122947811,0.038313625226376866,0.0411452599931346,400
+us101,frequency,rss_longitudinal,RSS longitudinal,delta90_penalty_vs_star_s,0.09999999999999987,0.09999999999999987,0.09999999999999987,400
+us101,frequency,rss_longitudinal,RSS longitudinal,delta_rel90_penalty_vs_star_s,0.0,-0.050000000000000044,0.0,400
+us101,severity,star,Upper bound,saturation,0.9743957908727015,0.9702594507166178,0.9777112128403845,400
+us101,severity,star,Upper bound,delta_abs_q50_s,1.25,1.25,1.25,400
+us101,severity,star,Upper bound,delta_abs_q90_s,1.9,1.85,1.9,400
+us101,severity,star,Upper bound,delta_abs_q95_s,2.2,2.15,2.25,400
+us101,severity,star,Upper bound,delta_rel_q90_s,1.8,1.8,1.8,400
+us101,severity,star,Upper bound,sat_gap_vs_star,0.0,0.0,0.0,400
+us101,severity,star,Upper bound,delta90_penalty_vs_star_s,0.0,0.0,0.0,400
+us101,severity,star,Upper bound,delta_rel90_penalty_vs_star_s,0.0,0.0,0.0,400
+us101,severity,pi,Weak TTC,saturation,0.46061303449185825,0.45596417720750676,0.46557207129531364,400
+us101,severity,pi,Weak TTC,delta_abs_q50_s,,,,400
+us101,severity,pi,Weak TTC,delta_abs_q90_s,,,,400
+us101,severity,pi,Weak TTC,delta_abs_q95_s,,,,400
+us101,severity,pi,Weak TTC,delta_rel_q90_s,1.65,1.6,1.65,400
+us101,severity,pi,Weak TTC,sat_gap_vs_star,0.5137827563808433,0.5089431793434157,0.5180625399124215,400
+us101,severity,pi,Weak TTC,delta90_penalty_vs_star_s,,,,400
+us101,severity,pi,Weak TTC,delta_rel90_penalty_vs_star_s,-0.15000000000000013,-0.19999999999999996,-0.15000000000000013,400
+us101,severity,pi_tuned,Strong TTC,saturation,0.9121484989393719,0.9072407902474979,0.9168313448128839,400
+us101,severity,pi_tuned,Strong TTC,delta_abs_q50_s,1.25,1.25,1.25,400
+us101,severity,pi_tuned,Strong TTC,delta_abs_q90_s,2.25,2.2,2.35,400
+us101,severity,pi_tuned,Strong TTC,delta_abs_q95_s,,,,400
+us101,severity,pi_tuned,Strong TTC,delta_rel_q90_s,1.75,1.75,1.75,400
+us101,severity,pi_tuned,Strong TTC,sat_gap_vs_star,0.06224729193332956,0.05918469994382528,0.06485533791928512,400
+us101,severity,pi_tuned,Strong TTC,delta90_penalty_vs_star_s,0.3500000000000001,0.30000000000000027,0.4500000000000002,400
+us101,severity,pi_tuned,Strong TTC,delta_rel90_penalty_vs_star_s,-0.050000000000000044,-0.050000000000000044,-0.050000000000000044,400
+us101,severity,pi_sd,Stopping-distance,saturation,0.9241971267368684,0.9193842374293013,0.9284742582597292,400
+us101,severity,pi_sd,Stopping-distance,delta_abs_q50_s,1.25,1.25,1.25,400
+us101,severity,pi_sd,Stopping-distance,delta_abs_q90_s,2.05,2.05,2.15,400
+us101,severity,pi_sd,Stopping-distance,delta_abs_q95_s,,,,400
+us101,severity,pi_sd,Stopping-distance,delta_rel_q90_s,1.75,1.75,1.75,400
+us101,severity,pi_sd,Stopping-distance,sat_gap_vs_star,0.05019866413583307,0.047878762098953274,0.05260465339707974,400
+us101,severity,pi_sd,Stopping-distance,delta90_penalty_vs_star_s,0.1499999999999999,0.1499999999999999,0.25,400
+us101,severity,pi_sd,Stopping-distance,delta_rel90_penalty_vs_star_s,-0.050000000000000044,-0.050000000000000044,-0.050000000000000044,400
+us101,severity,rss_longitudinal,RSS longitudinal,saturation,0.9261789857395818,0.9217750788967415,0.9300068332253913,400
+us101,severity,rss_longitudinal,RSS longitudinal,delta_abs_q50_s,1.25,1.25,1.25,400
+us101,severity,rss_longitudinal,RSS longitudinal,delta_abs_q90_s,2.15,2.1,2.2,400
+us101,severity,rss_longitudinal,RSS longitudinal,delta_abs_q95_s,,,,400
+us101,severity,rss_longitudinal,RSS longitudinal,delta_rel_q90_s,1.8,1.75,1.8,400
+us101,severity,rss_longitudinal,RSS longitudinal,sat_gap_vs_star,0.048216805133119656,0.0464185803982501,0.05055028988184304,400
+us101,severity,rss_longitudinal,RSS longitudinal,delta90_penalty_vs_star_s,0.25,0.20000000000000018,0.30000000000000027,400
+us101,severity,rss_longitudinal,RSS longitudinal,delta_rel90_penalty_vs_star_s,0.0,-0.050000000000000044,0.0,400
+i80,frequency,star,Upper bound,saturation,0.9944921985183881,0.9938760967354026,0.9950494737154647,400
+i80,frequency,star,Upper bound,delta_abs_q50_s,0.9,0.9,0.9,400
+i80,frequency,star,Upper bound,delta_abs_q90_s,1.45,1.45,1.45,400
+i80,frequency,star,Upper bound,delta_abs_q95_s,1.65,1.65,1.65,400
+i80,frequency,star,Upper bound,delta_rel_q90_s,1.45,1.4,1.45,400
+i80,frequency,star,Upper bound,sat_gap_vs_star,0.0,0.0,0.0,400
+i80,frequency,star,Upper bound,delta90_penalty_vs_star_s,0.0,0.0,0.0,400
+i80,frequency,star,Upper bound,delta_rel90_penalty_vs_star_s,0.0,0.0,0.0,400
+i80,frequency,pi,Weak TTC,saturation,0.4936088718656757,0.49056454965186524,0.49704976320907357,400
+i80,frequency,pi,Weak TTC,delta_abs_q50_s,,,,400
+i80,frequency,pi,Weak TTC,delta_abs_q90_s,,,,400
+i80,frequency,pi,Weak TTC,delta_abs_q95_s,,,,400
+i80,frequency,pi,Weak TTC,delta_rel_q90_s,1.55,1.55,1.55,400
+i80,frequency,pi,Weak TTC,sat_gap_vs_star,0.5008833266527124,0.4973570718092608,0.5039356284980477,400
+i80,frequency,pi,Weak TTC,delta90_penalty_vs_star_s,,,,400
+i80,frequency,pi,Weak TTC,delta_rel90_penalty_vs_star_s,0.10000000000000009,0.10000000000000009,0.15000000000000013,400
+i80,frequency,pi_tuned,Strong TTC,saturation,0.9459834617497305,0.9444591665553227,0.9474754672723761,400
+i80,frequency,pi_tuned,Strong TTC,delta_abs_q50_s,0.95,0.95,0.95,400
+i80,frequency,pi_tuned,Strong TTC,delta_abs_q90_s,1.65,1.65,1.65,400
+i80,frequency,pi_tuned,Strong TTC,delta_abs_q95_s,,,,400
+i80,frequency,pi_tuned,Strong TTC,delta_rel_q90_s,1.45,1.45,1.45,400
+i80,frequency,pi_tuned,Strong TTC,sat_gap_vs_star,0.048508736768657634,0.04712065202868221,0.049853026321649604,400
+i80,frequency,pi_tuned,Strong TTC,delta90_penalty_vs_star_s,0.19999999999999996,0.19999999999999996,0.19999999999999996,400
+i80,frequency,pi_tuned,Strong TTC,delta_rel90_penalty_vs_star_s,0.0,0.0,0.050000000000000044,400
+i80,frequency,pi_sd,Stopping-distance,saturation,0.9610519752371636,0.9598713609168779,0.9622999524933562,400
+i80,frequency,pi_sd,Stopping-distance,delta_abs_q50_s,0.9,0.9,0.9,400
+i80,frequency,pi_sd,Stopping-distance,delta_abs_q90_s,1.5,1.5,1.5,400
+i80,frequency,pi_sd,Stopping-distance,delta_abs_q95_s,1.9,1.85,1.9,400
+i80,frequency,pi_sd,Stopping-distance,delta_rel_q90_s,1.4,1.35,1.4,400
+i80,frequency,pi_sd,Stopping-distance,sat_gap_vs_star,0.033440223281224535,0.03229690909900686,0.03445864695140963,400
+i80,frequency,pi_sd,Stopping-distance,delta90_penalty_vs_star_s,0.050000000000000044,0.050000000000000044,0.050000000000000044,400
+i80,frequency,pi_sd,Stopping-distance,delta_rel90_penalty_vs_star_s,-0.050000000000000044,-0.09999999999999987,-0.04999999999999982,400
+i80,frequency,rss_longitudinal,RSS longitudinal,saturation,0.9540447453198548,0.9528114283169284,0.9553068261108387,400
+i80,frequency,rss_longitudinal,RSS longitudinal,delta_abs_q50_s,0.9,0.9,0.9,400
+i80,frequency,rss_longitudinal,RSS longitudinal,delta_abs_q90_s,1.55,1.55,1.55,400
+i80,frequency,rss_longitudinal,RSS longitudinal,delta_abs_q95_s,2.25,2.15,2.35,400
+i80,frequency,rss_longitudinal,RSS longitudinal,delta_rel_q90_s,1.4,1.4,1.4,400
+i80,frequency,rss_longitudinal,RSS longitudinal,sat_gap_vs_star,0.04044745319853327,0.0393186136967591,0.04168002791015309,400
+i80,frequency,rss_longitudinal,RSS longitudinal,delta90_penalty_vs_star_s,0.10000000000000009,0.10000000000000009,0.10000000000000009,400
+i80,frequency,rss_longitudinal,RSS longitudinal,delta_rel90_penalty_vs_star_s,-0.050000000000000044,-0.050000000000000044,0.0,400
+i80,severity,star,Upper bound,saturation,0.9709964365122987,0.9673935386025181,0.9743736688998662,400
+i80,severity,star,Upper bound,delta_abs_q50_s,1.15,1.15,1.15,400
+i80,severity,star,Upper bound,delta_abs_q90_s,1.85,1.85,1.85,400
+i80,severity,star,Upper bound,delta_abs_q95_s,2.25,2.2,2.3,400
+i80,severity,star,Upper bound,delta_rel_q90_s,1.75,1.75,1.75,400
+i80,severity,star,Upper bound,sat_gap_vs_star,0.0,0.0,0.0,400
+i80,severity,star,Upper bound,delta90_penalty_vs_star_s,0.0,0.0,0.0,400
+i80,severity,star,Upper bound,delta_rel90_penalty_vs_star_s,0.0,0.0,0.0,400
+i80,severity,pi,Weak TTC,saturation,0.47062776609967344,0.4664766170763668,0.4750232306503209,400
+i80,severity,pi,Weak TTC,delta_abs_q50_s,,,,400
+i80,severity,pi,Weak TTC,delta_abs_q90_s,,,,400
+i80,severity,pi,Weak TTC,delta_abs_q95_s,,,,400
+i80,severity,pi,Weak TTC,delta_rel_q90_s,1.65,1.65,1.65,400
+i80,severity,pi,Weak TTC,sat_gap_vs_star,0.5003686704126253,0.49581045708615434,0.5046894267655763,400
+i80,severity,pi,Weak TTC,delta90_penalty_vs_star_s,,,,400
+i80,severity,pi,Weak TTC,delta_rel90_penalty_vs_star_s,-0.10000000000000009,-0.10000000000000009,-0.10000000000000009,400
+i80,severity,pi_tuned,Strong TTC,saturation,0.910867423562483,0.9071762310101571,0.9147861977493359,400
+i80,severity,pi_tuned,Strong TTC,delta_abs_q50_s,1.15,1.15,1.15,400
+i80,severity,pi_tuned,Strong TTC,delta_abs_q90_s,2.3,2.2,2.45,400
+i80,severity,pi_tuned,Strong TTC,delta_abs_q95_s,,,,400
+i80,severity,pi_tuned,Strong TTC,delta_rel_q90_s,1.7,1.7,1.7,400
+i80,severity,pi_tuned,Strong TTC,sat_gap_vs_star,0.06012901294981576,0.057341371530358703,0.06250673606077121,400
+i80,severity,pi_tuned,Strong TTC,delta90_penalty_vs_star_s,0.44999999999999973,0.3500000000000001,0.5500000000000003,400
+i80,severity,pi_tuned,Strong TTC,delta_rel90_penalty_vs_star_s,-0.050000000000000044,-0.050000000000000044,-0.050000000000000044,400
+i80,severity,pi_sd,Stopping-distance,saturation,0.9112890236756299,0.9077800063996664,0.9150773127616411,400
+i80,severity,pi_sd,Stopping-distance,delta_abs_q50_s,1.15,1.15,1.15,400
+i80,severity,pi_sd,Stopping-distance,delta_abs_q90_s,2.25,2.15,2.35,400
+i80,severity,pi_sd,Stopping-distance,delta_abs_q95_s,,,,400
+i80,severity,pi_sd,Stopping-distance,delta_rel_q90_s,1.65,1.65,1.65,400
+i80,severity,pi_sd,Stopping-distance,sat_gap_vs_star,0.059707412836668805,0.057426239267595665,0.0620247124591853,400
+i80,severity,pi_sd,Stopping-distance,delta90_penalty_vs_star_s,0.3999999999999999,0.2999999999999998,0.5,400
+i80,severity,pi_sd,Stopping-distance,delta_rel90_penalty_vs_star_s,-0.10000000000000009,-0.10000000000000009,-0.10000000000000009,400
+i80,severity,rss_longitudinal,RSS longitudinal,saturation,0.9172314008686336,0.9137152181706719,0.920844098728812,400
+i80,severity,rss_longitudinal,RSS longitudinal,delta_abs_q50_s,1.15,1.15,1.15,400
+i80,severity,rss_longitudinal,RSS longitudinal,delta_abs_q90_s,2.2,2.15,2.3,400
+i80,severity,rss_longitudinal,RSS longitudinal,delta_abs_q95_s,,,,400
+i80,severity,rss_longitudinal,RSS longitudinal,delta_rel_q90_s,1.7,1.7,1.7,400
+i80,severity,rss_longitudinal,RSS longitudinal,sat_gap_vs_star,0.05376503564366508,0.05179980391229906,0.05575277966661471,400
+i80,severity,rss_longitudinal,RSS longitudinal,delta90_penalty_vs_star_s,0.3500000000000001,0.2999999999999998,0.3999999999999999,400
+i80,severity,rss_longitudinal,RSS longitudinal,delta_rel90_penalty_vs_star_s,-0.050000000000000044,-0.050000000000000044,-0.050000000000000044,400
+ngsim_pooled,frequency,star,Upper bound,saturation,0.9943750256613791,0.9938822131285896,0.9947861779827645,400
+ngsim_pooled,frequency,star,Upper bound,delta_abs_q50_s,0.95,0.95,0.95,400
+ngsim_pooled,frequency,star,Upper bound,delta_abs_q90_s,1.5,1.5,1.5,400
+ngsim_pooled,frequency,star,Upper bound,delta_abs_q95_s,1.7,1.7,1.7,400
+ngsim_pooled,frequency,star,Upper bound,delta_rel_q90_s,1.5,1.5,1.5,400
+ngsim_pooled,frequency,star,Upper bound,sat_gap_vs_star,0.0,0.0,0.0,400
+ngsim_pooled,frequency,star,Upper bound,delta90_penalty_vs_star_s,0.0,0.0,0.0,400
+ngsim_pooled,frequency,star,Upper bound,delta_rel90_penalty_vs_star_s,0.0,0.0,0.0,400
+ngsim_pooled,frequency,pi,Weak TTC,saturation,0.4998334861611032,0.49753719189237267,0.5023258333675483,400
+ngsim_pooled,frequency,pi,Weak TTC,delta_abs_q50_s,,2.5,3.51875,400
+ngsim_pooled,frequency,pi,Weak TTC,delta_abs_q90_s,,,,400
+ngsim_pooled,frequency,pi,Weak TTC,delta_abs_q95_s,,,,400
+ngsim_pooled,frequency,pi,Weak TTC,delta_rel_q90_s,1.55,1.55,1.55,400
+ngsim_pooled,frequency,pi,Weak TTC,sat_gap_vs_star,0.49454153950027596,0.49216894539714684,0.49686851337357035,400
+ngsim_pooled,frequency,pi,Weak TTC,delta90_penalty_vs_star_s,,,,400
+ngsim_pooled,frequency,pi,Weak TTC,delta_rel90_penalty_vs_star_s,0.050000000000000044,0.050000000000000044,0.050000000000000044,400
+ngsim_pooled,frequency,pi_tuned,Strong TTC,saturation,0.9492931145387109,0.9482391731789543,0.9503476261513405,400
+ngsim_pooled,frequency,pi_tuned,Strong TTC,delta_abs_q50_s,0.95,0.95,0.95,400
+ngsim_pooled,frequency,pi_tuned,Strong TTC,delta_abs_q90_s,1.7,1.65,1.7,400
+ngsim_pooled,frequency,pi_tuned,Strong TTC,delta_abs_q95_s,,3.95,4.65,400
+ngsim_pooled,frequency,pi_tuned,Strong TTC,delta_rel_q90_s,1.5,1.5,1.5,400
+ngsim_pooled,frequency,pi_tuned,Strong TTC,sat_gap_vs_star,0.04508191112266824,0.04401793331234796,0.04595918814238987,400
+ngsim_pooled,frequency,pi_tuned,Strong TTC,delta90_penalty_vs_star_s,0.19999999999999996,0.1499999999999999,0.19999999999999996,400
+ngsim_pooled,frequency,pi_tuned,Strong TTC,delta_rel90_penalty_vs_star_s,0.0,0.0,0.0,400
+ngsim_pooled,frequency,pi_sd,Stopping-distance,saturation,0.9614463437666797,0.9605465987837645,0.9623179182576721,400
+ngsim_pooled,frequency,pi_sd,Stopping-distance,delta_abs_q50_s,0.95,0.95,0.95,400
+ngsim_pooled,frequency,pi_sd,Stopping-distance,delta_abs_q90_s,1.55,1.55,1.55,400
+ngsim_pooled,frequency,pi_sd,Stopping-distance,delta_abs_q95_s,1.95,1.9,1.95,400
+ngsim_pooled,frequency,pi_sd,Stopping-distance,delta_rel_q90_s,1.45,1.45,1.45,400
+ngsim_pooled,frequency,pi_sd,Stopping-distance,sat_gap_vs_star,0.03292868189469944,0.03210238548181808,0.033699891880055274,400
+ngsim_pooled,frequency,pi_sd,Stopping-distance,delta90_penalty_vs_star_s,0.050000000000000044,0.050000000000000044,0.050000000000000044,400
+ngsim_pooled,frequency,pi_sd,Stopping-distance,delta_rel90_penalty_vs_star_s,-0.050000000000000044,-0.050000000000000044,-0.050000000000000044,400
+ngsim_pooled,frequency,rss_longitudinal,RSS longitudinal,saturation,0.9542383474527943,0.9531156335965618,0.9551743605184282,400
+ngsim_pooled,frequency,rss_longitudinal,RSS longitudinal,delta_abs_q50_s,0.95,0.95,0.95,400
+ngsim_pooled,frequency,rss_longitudinal,RSS longitudinal,delta_abs_q90_s,1.6,1.6,1.65,400
+ngsim_pooled,frequency,rss_longitudinal,RSS longitudinal,delta_abs_q95_s,2.25,2.2,2.35,400
+ngsim_pooled,frequency,rss_longitudinal,RSS longitudinal,delta_rel_q90_s,1.45,1.45,1.45,400
+ngsim_pooled,frequency,rss_longitudinal,RSS longitudinal,sat_gap_vs_star,0.0401366782085848,0.03932577862327273,0.04112777770174405,400
+ngsim_pooled,frequency,rss_longitudinal,RSS longitudinal,delta90_penalty_vs_star_s,0.10000000000000009,0.10000000000000009,0.1499999999999999,400
+ngsim_pooled,frequency,rss_longitudinal,RSS longitudinal,delta_rel90_penalty_vs_star_s,-0.050000000000000044,-0.050000000000000044,-0.050000000000000044,400
+ngsim_pooled,severity,star,Upper bound,saturation,0.9724220103313826,0.9695845802154446,0.9749162625142834,400
+ngsim_pooled,severity,star,Upper bound,delta_abs_q50_s,1.2,1.15,1.2,400
+ngsim_pooled,severity,star,Upper bound,delta_abs_q90_s,1.85,1.85,1.9,400
+ngsim_pooled,severity,star,Upper bound,delta_abs_q95_s,2.25,2.2,2.3,400
+ngsim_pooled,severity,star,Upper bound,delta_rel_q90_s,1.8,1.75,1.8,400
+ngsim_pooled,severity,star,Upper bound,sat_gap_vs_star,0.0,0.0,0.0,400
+ngsim_pooled,severity,star,Upper bound,delta90_penalty_vs_star_s,0.0,0.0,0.0,400
+ngsim_pooled,severity,star,Upper bound,delta_rel90_penalty_vs_star_s,0.0,0.0,0.0,400
+ngsim_pooled,severity,pi,Weak TTC,saturation,0.46642792763871316,0.46311845508688476,0.46986861199736185,400
+ngsim_pooled,severity,pi,Weak TTC,delta_abs_q50_s,,,,400
+ngsim_pooled,severity,pi,Weak TTC,delta_abs_q90_s,,,,400
+ngsim_pooled,severity,pi,Weak TTC,delta_abs_q95_s,,,,400
+ngsim_pooled,severity,pi,Weak TTC,delta_rel_q90_s,1.65,1.65,1.65,400
+ngsim_pooled,severity,pi,Weak TTC,sat_gap_vs_star,0.5059940826926694,0.5025533193163527,0.509107673563484,400
+ngsim_pooled,severity,pi,Weak TTC,delta90_penalty_vs_star_s,,,,400
+ngsim_pooled,severity,pi,Weak TTC,delta_rel90_penalty_vs_star_s,-0.15000000000000013,-0.15000000000000013,-0.10000000000000009,400
+ngsim_pooled,severity,pi_tuned,Strong TTC,saturation,0.9114046630862112,0.9079849904274859,0.9146406928221391,400
+ngsim_pooled,severity,pi_tuned,Strong TTC,delta_abs_q50_s,1.2,1.2,1.2,400
+ngsim_pooled,severity,pi_tuned,Strong TTC,delta_abs_q90_s,2.25,2.2,2.35,400
+ngsim_pooled,severity,pi_tuned,Strong TTC,delta_abs_q95_s,,,,400
+ngsim_pooled,severity,pi_tuned,Strong TTC,delta_rel_q90_s,1.75,1.7,1.75,400
+ngsim_pooled,severity,pi_tuned,Strong TTC,sat_gap_vs_star,0.061017347245171494,0.05935841728375303,0.06269583204305802,400
+ngsim_pooled,severity,pi_tuned,Strong TTC,delta90_penalty_vs_star_s,0.3999999999999999,0.3500000000000001,0.5,400
+ngsim_pooled,severity,pi_tuned,Strong TTC,delta_rel90_penalty_vs_star_s,-0.050000000000000044,-0.050000000000000044,0.0,400
+ngsim_pooled,severity,pi_sd,Stopping-distance,saturation,0.9167022439013549,0.9137082011449614,0.9195309653393314,400
+ngsim_pooled,severity,pi_sd,Stopping-distance,delta_abs_q50_s,1.2,1.2,1.2,400
+ngsim_pooled,severity,pi_sd,Stopping-distance,delta_abs_q90_s,2.15,2.1,2.2,400
+ngsim_pooled,severity,pi_sd,Stopping-distance,delta_abs_q95_s,,,,400
+ngsim_pooled,severity,pi_sd,Stopping-distance,delta_rel_q90_s,1.7,1.7,1.7,400
+ngsim_pooled,severity,pi_sd,Stopping-distance,sat_gap_vs_star,0.05571976643002774,0.05411261478838782,0.0573647255388614,400
+ngsim_pooled,severity,pi_sd,Stopping-distance,delta90_penalty_vs_star_s,0.2999999999999998,0.25,0.30000000000000027,400
+ngsim_pooled,severity,pi_sd,Stopping-distance,delta_rel90_penalty_vs_star_s,-0.10000000000000009,-0.10000000000000009,-0.050000000000000044,400
+ngsim_pooled,severity,rss_longitudinal,RSS longitudinal,saturation,0.9209837142151432,0.9176245999406674,0.9237316732408614,400
+ngsim_pooled,severity,rss_longitudinal,RSS longitudinal,delta_abs_q50_s,1.2,1.2,1.2,400
+ngsim_pooled,severity,rss_longitudinal,RSS longitudinal,delta_abs_q90_s,2.15,2.15,2.25,400
+ngsim_pooled,severity,rss_longitudinal,RSS longitudinal,delta_abs_q95_s,,,,400
+ngsim_pooled,severity,rss_longitudinal,RSS longitudinal,delta_rel_q90_s,1.75,1.75,1.75,400
+ngsim_pooled,severity,rss_longitudinal,RSS longitudinal,sat_gap_vs_star,0.0514382961162394,0.05011854707793387,0.0529006575995237,400
+ngsim_pooled,severity,rss_longitudinal,RSS longitudinal,delta90_penalty_vs_star_s,0.2999999999999998,0.2999999999999998,0.3500000000000001,400
+ngsim_pooled,severity,rss_longitudinal,RSS longitudinal,delta_rel90_penalty_vs_star_s,-0.050000000000000044,-0.050000000000000044,0.0,400
+highd_external,frequency,star,Upper bound,saturation,0.9970844266733314,0.9962503644466657,0.9979184888999956,400
+highd_external,frequency,star,Upper bound,delta_abs_q50_s,1.15,1.1,1.15,400
+highd_external,frequency,star,Upper bound,delta_abs_q90_s,1.85,1.8,1.85,400
+highd_external,frequency,star,Upper bound,delta_abs_q95_s,2.1,2.1,2.15,400
+highd_external,frequency,star,Upper bound,delta_rel_q90_s,1.8,1.8,1.85,400
+highd_external,frequency,star,Upper bound,sat_gap_vs_star,0.0,0.0,0.0,400
+highd_external,frequency,star,Upper bound,delta90_penalty_vs_star_s,0.0,0.0,0.0,400
+highd_external,frequency,star,Upper bound,delta_rel90_penalty_vs_star_s,0.0,0.0,0.0,400
+highd_external,frequency,pi,Weak TTC,saturation,0.6736223916031492,0.6649839643467033,0.6809956682910573,400
+highd_external,frequency,pi,Weak TTC,delta_abs_q50_s,1.4,1.4,1.45,400
+highd_external,frequency,pi,Weak TTC,delta_abs_q90_s,,,,400
+highd_external,frequency,pi,Weak TTC,delta_abs_q95_s,,,,400
+highd_external,frequency,pi,Weak TTC,delta_rel_q90_s,1.75,1.75,1.8,400
+highd_external,frequency,pi,Weak TTC,sat_gap_vs_star,0.32346203507018223,0.316172060477321,0.3322514473739015,400
+highd_external,frequency,pi,Weak TTC,delta90_penalty_vs_star_s,,,,400
+highd_external,frequency,pi,Weak TTC,delta_rel90_penalty_vs_star_s,-0.050000000000000044,-0.10000000000000009,0.0,400
+highd_external,frequency,pi_tuned,Strong TTC,saturation,0.9736765379649304,0.971092090466075,0.9762182931400724,400
+highd_external,frequency,pi_tuned,Strong TTC,delta_abs_q50_s,1.15,1.15,1.15,400
+highd_external,frequency,pi_tuned,Strong TTC,delta_abs_q90_s,1.9,1.85,1.95,400
+highd_external,frequency,pi_tuned,Strong TTC,delta_abs_q95_s,2.3,2.25,2.4,400
+highd_external,frequency,pi_tuned,Strong TTC,delta_rel_q90_s,1.8,1.75,1.8,400
+highd_external,frequency,pi_tuned,Strong TTC,sat_gap_vs_star,0.023407888708401048,0.021116039818401332,0.02586634178849594,400
+highd_external,frequency,pi_tuned,Strong TTC,delta90_penalty_vs_star_s,0.04999999999999982,0.04999999999999982,0.09999999999999987,400
+highd_external,frequency,pi_tuned,Strong TTC,delta_rel90_penalty_vs_star_s,0.0,-0.050000000000000044,0.0,400
+highd_external,frequency,pi_sd,Stopping-distance,saturation,0.9937523428714238,0.9922529051605646,0.9949185722020907,400
+highd_external,frequency,pi_sd,Stopping-distance,delta_abs_q50_s,1.15,1.15,1.15,400
+highd_external,frequency,pi_sd,Stopping-distance,delta_abs_q90_s,1.85,1.8,1.85,400
+highd_external,frequency,pi_sd,Stopping-distance,delta_abs_q95_s,2.15,2.1,2.15,400
+highd_external,frequency,pi_sd,Stopping-distance,delta_rel_q90_s,1.8,1.8,1.85,400
+highd_external,frequency,pi_sd,Stopping-distance,sat_gap_vs_star,0.003332083801907637,0.0025396726227664007,0.004374401266191862,400
+highd_external,frequency,pi_sd,Stopping-distance,delta90_penalty_vs_star_s,0.0,0.0,0.050000000000000044,400
+highd_external,frequency,pi_sd,Stopping-distance,delta_rel90_penalty_vs_star_s,0.0,-0.050000000000000044,0.0,400
+highd_external,frequency,rss_longitudinal,RSS longitudinal,saturation,0.9914198842100884,0.9897528010329458,0.9928360198258984,400
+highd_external,frequency,rss_longitudinal,RSS longitudinal,delta_abs_q50_s,1.15,1.15,1.15,400
+highd_external,frequency,rss_longitudinal,RSS longitudinal,delta_abs_q90_s,1.85,1.85,1.85,400
+highd_external,frequency,rss_longitudinal,RSS longitudinal,delta_abs_q95_s,2.15,2.15,2.2,400
+highd_external,frequency,rss_longitudinal,RSS longitudinal,delta_rel_q90_s,1.8,1.8,1.85,400
+highd_external,frequency,rss_longitudinal,RSS longitudinal,sat_gap_vs_star,0.005664542463242994,0.004663876046482507,0.006872422841434411,400
+highd_external,frequency,rss_longitudinal,RSS longitudinal,delta90_penalty_vs_star_s,0.0,0.0,0.050000000000000044,400
+highd_external,frequency,rss_longitudinal,RSS longitudinal,delta_rel90_penalty_vs_star_s,0.0,-0.050000000000000044,0.0,400
+highd_external,severity,star,Upper bound,saturation,0.9922299139425435,0.989729264916057,0.9945695015630033,400
+highd_external,severity,star,Upper bound,delta_abs_q50_s,1.4,1.35,1.4,400
+highd_external,severity,star,Upper bound,delta_abs_q90_s,2.2,2.15,2.25,400
+highd_external,severity,star,Upper bound,delta_abs_q95_s,2.55,2.5,2.6,400
+highd_external,severity,star,Upper bound,delta_rel_q90_s,2.15,2.15,2.2,400
+highd_external,severity,star,Upper bound,sat_gap_vs_star,0.0,0.0,0.0,400
+highd_external,severity,star,Upper bound,delta90_penalty_vs_star_s,0.0,0.0,0.0,400
+highd_external,severity,star,Upper bound,delta_rel90_penalty_vs_star_s,0.0,0.0,0.0,400
+highd_external,severity,pi,Weak TTC,saturation,0.5942878226772863,0.5834060971889898,0.6049936828600578,400
+highd_external,severity,pi,Weak TTC,delta_abs_q50_s,1.75,1.75,1.8,400
+highd_external,severity,pi,Weak TTC,delta_abs_q90_s,,,,400
+highd_external,severity,pi,Weak TTC,delta_abs_q95_s,,,,400
+highd_external,severity,pi,Weak TTC,delta_rel_q90_s,1.9,1.9,1.95,400
+highd_external,severity,pi,Weak TTC,sat_gap_vs_star,0.39794209126525715,0.3873833398549346,0.4086445725011205,400
+highd_external,severity,pi,Weak TTC,delta90_penalty_vs_star_s,,,,400
+highd_external,severity,pi,Weak TTC,delta_rel90_penalty_vs_star_s,-0.25,-0.30000000000000027,-0.19999999999999996,400
+highd_external,severity,pi_tuned,Strong TTC,saturation,0.9461404997177281,0.9403453202417804,0.9516415009855517,400
+highd_external,severity,pi_tuned,Strong TTC,delta_abs_q50_s,1.4,1.4,1.4,400
+highd_external,severity,pi_tuned,Strong TTC,delta_abs_q90_s,2.45,2.35,2.55,400
+highd_external,severity,pi_tuned,Strong TTC,delta_abs_q95_s,,3.64375,4.4125000000000005,400
+highd_external,severity,pi_tuned,Strong TTC,delta_rel_q90_s,2.1,2.1,2.15,400
+highd_external,severity,pi_tuned,Strong TTC,sat_gap_vs_star,0.046089414224815384,0.04111081629376649,0.0511700699051143,400
+highd_external,severity,pi_tuned,Strong TTC,delta90_penalty_vs_star_s,0.25,0.19999999999999973,0.2999999999999998,400
+highd_external,severity,pi_tuned,Strong TTC,delta_rel90_penalty_vs_star_s,-0.04999999999999982,-0.10000000000000009,0.0,400
+highd_external,severity,pi_sd,Stopping-distance,saturation,0.9874663230350194,0.9843052078979289,0.990186090724015,400
+highd_external,severity,pi_sd,Stopping-distance,delta_abs_q50_s,1.4,1.35,1.4,400
+highd_external,severity,pi_sd,Stopping-distance,delta_abs_q90_s,2.2,2.15,2.25,400
+highd_external,severity,pi_sd,Stopping-distance,delta_abs_q95_s,2.55,2.5,2.65,400
+highd_external,severity,pi_sd,Stopping-distance,delta_rel_q90_s,2.15,2.15,2.2,400
+highd_external,severity,pi_sd,Stopping-distance,sat_gap_vs_star,0.004763590907524096,0.003413560531595694,0.006432449151370034,400
+highd_external,severity,pi_sd,Stopping-distance,delta90_penalty_vs_star_s,0.0,0.0,0.050000000000000266,400
+highd_external,severity,pi_sd,Stopping-distance,delta_rel90_penalty_vs_star_s,0.0,-0.050000000000000266,0.0,400
+highd_external,severity,rss_longitudinal,RSS longitudinal,saturation,0.986337980228622,0.9831006897721796,0.9892223569085546,400
+highd_external,severity,rss_longitudinal,RSS longitudinal,delta_abs_q50_s,1.4,1.4,1.4,400
+highd_external,severity,rss_longitudinal,RSS longitudinal,delta_abs_q90_s,2.2,2.2,2.25,400
+highd_external,severity,rss_longitudinal,RSS longitudinal,delta_abs_q95_s,2.6,2.55,2.65,400
+highd_external,severity,rss_longitudinal,RSS longitudinal,delta_rel_q90_s,2.15,2.15,2.2,400
+highd_external,severity,rss_longitudinal,RSS longitudinal,sat_gap_vs_star,0.005891933713921493,0.004625443706508964,0.0075413274477610865,400
+highd_external,severity,rss_longitudinal,RSS longitudinal,delta90_penalty_vs_star_s,0.0,0.0,0.050000000000000266,400
+highd_external,severity,rss_longitudinal,RSS longitudinal,delta_rel90_penalty_vs_star_s,0.0,-0.050000000000000266,0.0,400

@@ -1,0 +1,5 @@
+candidate,scale,shift_s,gate_mps,saturation_pct,delta90_s,delta95_s,nuisance_pct,comfort_pct,p90_peak_decel_mps2,interpretation
+Coverage-only best,1.40,0.40,0.0,99.00,1.55,1.75,30.70,2.72,1.519,Highest coverage but high non-crash burden; coverage-only diagnostic.
+Burden-constrained best,1.00,0.20,0.0,97.88,1.55,1.80,9.23,1.03,0.356,Similar lead-time scale with much lower burden.
+Original-scale reference gate 0.0,1.00,0.00,0.0,97.53,1.55,1.85,8.16,0.91,0.000,Near the burden-constrained region.
+Fixed TTC-like reference gate 0.3,1.00,0.00,0.3,94.88,1.70,,8.16,0.91,0.000,Fixed transparent TTC-family reference.

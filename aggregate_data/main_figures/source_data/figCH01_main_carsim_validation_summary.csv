@@ -1,0 +1,4 @@
+Scope,p_succ^+,p_crash^-,A_side,Median |e_Δ| (s),P90 |e_Δ| (s),Median |e_v| (m/s),Ranking Preserved (%)
+US-101 prototypes,0.93,0.93,0.92,0.09,0.18,0.92,95.0
+I-80 prototypes,0.94,0.95,0.94,0.08,0.16,0.84,96.0
+Combined,0.935,0.94,0.93,0.085,0.17,0.88,95.5

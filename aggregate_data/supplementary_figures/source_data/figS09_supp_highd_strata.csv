@@ -1,0 +1,121 @@
+driving_direction,location_id,controller,saturation,delta_abs_q50_s,delta_abs_q90_s,delta_abs_q95_s,delta_rel_q90_s,dataset,weight_mode,controller_label,n_instances,sat_gap_vs_star,delta90_penalty_vs_star_s,delta_rel90_penalty_vs_star_s,stratum,sat_gap_vs_star_pp
+1,1,star,0.9971081058093048,1.15,1.8,2.05,1.8,highd_external,frequency,Upper bound,11757,0.0,0.0,0.0,L1–D1,0.0
+1,1,pi,0.6140171812537212,1.55,,,1.8,highd_external,frequency,Weak TTC,11757,0.3830909245555836,,0.0,L1–D1,38.30909245555836
+1,1,pi_tuned,0.972527005188398,1.15,1.85,2.3,1.75,highd_external,frequency,Strong TTC,11757,0.0245811006209066,0.05,-0.05,L1–D1,2.4581100620906597
+1,1,pi_sd,0.9908139831589688,1.15,1.8,2.1,1.75,highd_external,frequency,Stopping-distance,11757,0.0062941226503359,0.0,-0.05,L1–D1,0.6294122650335899
+1,1,rss_longitudinal,0.9868163647188906,1.15,1.85,2.15,1.75,highd_external,frequency,RSS longitudinal,11757,0.0102917410904141,0.05,-0.05,L1–D1,1.02917410904141
+1,1,star,0.9916688508488172,1.35,2.15,2.5,2.15,highd_external,severity,Upper bound,11757,0.0,0.0,0.0,L1–D1,0.0
+1,1,pi,0.5541147403637224,1.9,,,1.9,highd_external,severity,Weak TTC,11757,0.4375541104850947,,-0.25,L1–D1,43.755411048509465
+1,1,pi_tuned,0.9424233649102864,1.4,2.4,,2.05,highd_external,severity,Strong TTC,11757,0.0492454859385307,0.25,-0.1,L1–D1,4.92454859385307
+1,1,pi_sd,0.9824768825164528,1.35,2.2,2.55,2.1,highd_external,severity,Stopping-distance,11757,0.0091919683323644,0.0500000000000002,-0.0499999999999998,L1–D1,0.91919683323644
+1,1,rss_longitudinal,0.9810523944995247,1.35,2.2,2.6,2.15,highd_external,severity,RSS longitudinal,11757,0.0106164563492923,0.0500000000000002,0.0,L1–D1,1.06164563492923
+2,1,star,0.9960031974420462,1.05,1.65,1.95,1.6,highd_external,frequency,Upper bound,6255,0.0,0.0,0.0,L1–D2,0.0
+2,1,pi,0.7474020783373299,1.15,,,1.6,highd_external,frequency,Weak TTC,6255,0.2486011191047163,,0.0,L1–D2,24.86011191047163
+2,1,pi_tuned,0.9669064748201436,1.05,1.65,2.1,1.55,highd_external,frequency,Strong TTC,6255,0.0290967226219026,0.0,-0.05,L1–D2,2.90967226219026
+2,1,pi_sd,0.9952038369304554,1.05,1.65,1.95,1.65,highd_external,frequency,Stopping-distance,6255,0.0007993605115907,0.0,0.0499999999999998,L1–D2,0.07993605115907
+2,1,rss_longitudinal,0.993764988009592,1.05,1.65,1.95,1.65,highd_external,frequency,RSS longitudinal,6255,0.0022382094324541,0.0,0.0499999999999998,L1–D2,0.22382094324541
+2,1,star,0.9873185002295496,1.25,2.05,2.55,2.0,highd_external,severity,Upper bound,6255,0.0,0.0,0.0,L1–D2,0.0
+2,1,pi,0.6588570859310969,1.45,,,1.75,highd_external,severity,Weak TTC,6255,0.3284614142984527,,-0.25,L1–D2,32.84614142984527
+2,1,pi_tuned,0.9213300761856738,1.25,2.3,,1.85,highd_external,severity,Strong TTC,6255,0.0659884240438759,0.25,-0.1499999999999999,L1–D2,6.59884240438759
+2,1,pi_sd,0.9847544051118964,1.25,2.1,2.6,2.0,highd_external,severity,Stopping-distance,6255,0.0025640951176533,0.0500000000000002,0.0,L1–D2,0.25640951176533
+2,1,rss_longitudinal,0.9825302887979364,1.25,2.1,2.6,2.0,highd_external,severity,RSS longitudinal,6255,0.0047882114316133,0.0500000000000002,0.0,L1–D2,0.47882114316133
+1,2,star,1.0,1.2,1.85,2.2,1.85,highd_external,frequency,Upper bound,423,0.0,0.0,0.0,L2–D1,0.0
+1,2,pi,0.7565011820330969,1.4,,,1.85,highd_external,frequency,Weak TTC,423,0.2434988179669031,,0.0,L2–D1,24.34988179669031
+1,2,pi_tuned,0.983451536643026,1.2,1.85,2.35,1.85,highd_external,frequency,Strong TTC,423,0.016548463356974,0.0,0.0,L2–D1,1.6548463356974
+1,2,pi_sd,1.0,1.2,1.85,2.2,1.85,highd_external,frequency,Stopping-distance,423,0.0,0.0,0.0,L2–D1,0.0
+1,2,rss_longitudinal,1.0,1.2,1.85,2.2,1.85,highd_external,frequency,RSS longitudinal,423,0.0,0.0,0.0,L2–D1,0.0
+1,2,star,1.0,1.45,2.25,2.5,2.25,highd_external,severity,Upper bound,423,0.0,0.0,0.0,L2–D1,0.0
+1,2,pi,0.6545050927487892,1.65,,,2.0,highd_external,severity,Weak TTC,423,0.3454949072512108,,-0.25,L2–D1,34.54949072512108
+1,2,pi_tuned,0.9648030635237668,1.5,2.45,2.8,2.25,highd_external,severity,Strong TTC,423,0.0351969364762333,0.2000000000000001,0.0,L2–D1,3.5196936476233303
+1,2,pi_sd,1.0,1.45,2.25,2.5,2.25,highd_external,severity,Stopping-distance,423,0.0,0.0,0.0,L2–D1,0.0
+1,2,rss_longitudinal,1.0,1.45,2.25,2.5,2.25,highd_external,severity,RSS longitudinal,423,0.0,0.0,0.0,L2–D1,0.0
+2,2,star,0.9967637540453074,1.4,2.15,2.4,2.1,highd_external,frequency,Upper bound,309,0.0,0.0,0.0,L2–D2,0.0
+2,2,pi,0.6990291262135923,1.55,,,2.05,highd_external,frequency,Weak TTC,309,0.2977346278317151,,-0.0500000000000002,L2–D2,29.77346278317151
+2,2,pi_tuned,0.977346278317152,1.4,2.25,2.75,2.1,highd_external,frequency,Strong TTC,309,0.0194174757281553,0.1,0.0,L2–D2,1.94174757281553
+2,2,pi_sd,0.9967637540453074,1.4,2.15,2.45,2.1,highd_external,frequency,Stopping-distance,309,0.0,0.0,0.0,L2–D2,0.0
+2,2,rss_longitudinal,0.9935275080906149,1.4,2.15,2.45,2.1,highd_external,frequency,RSS longitudinal,309,0.0032362459546925,0.0,0.0,L2–D2,0.32362459546925
+2,2,star,0.9954732797129072,1.65,2.35,2.6,2.35,highd_external,severity,Upper bound,309,0.0,0.0,0.0,L2–D2,0.0
+2,2,pi,0.5718851261648539,2.1,,,2.15,highd_external,severity,Weak TTC,309,0.4235881535480532,,-0.2000000000000001,L2–D2,42.358815354805316
+2,2,pi_tuned,0.9684418004050764,1.65,2.7,3.4,2.4,highd_external,severity,Strong TTC,309,0.0270314793078306,0.3500000000000001,0.0499999999999998,L2–D2,2.70314793078306
+2,2,pi_sd,0.9954732797129072,1.65,2.35,2.6,2.35,highd_external,severity,Stopping-distance,309,0.0,0.0,0.0,L2–D2,0.0
+2,2,rss_longitudinal,0.9909465594258142,1.65,2.35,2.6,2.35,highd_external,severity,RSS longitudinal,309,0.0045267202870928,0.0,0.0,L2–D2,0.45267202870927997
+1,3,star,0.9999999999999992,1.4,2.05,2.25,2.05,highd_external,frequency,Upper bound,750,0.0,0.0,0.0,L3–D1,0.0
+1,3,pi,0.6946666666666663,1.6,,,1.95,highd_external,frequency,Weak TTC,750,0.305333333333333,,-0.0999999999999998,L3–D1,30.533333333333303
+1,3,pi_tuned,0.9919999999999992,1.4,2.1,2.45,2.1,highd_external,frequency,Strong TTC,750,0.008,0.0500000000000002,0.0500000000000002,L3–D1,0.8
+1,3,pi_sd,0.9999999999999992,1.4,2.05,2.25,2.05,highd_external,frequency,Stopping-distance,750,0.0,0.0,0.0,L3–D1,0.0
+1,3,rss_longitudinal,0.9999999999999992,1.4,2.05,2.25,2.05,highd_external,frequency,RSS longitudinal,750,0.0,0.0,0.0,L3–D1,0.0
+1,3,star,1.0,1.55,2.2,2.4,2.2,highd_external,severity,Upper bound,750,0.0,0.0,0.0,L3–D1,0.0
+1,3,pi,0.6125617369114089,1.85,,,2.0,highd_external,severity,Weak TTC,750,0.387438263088591,,-0.2000000000000001,L3–D1,38.7438263088591
+1,3,pi_tuned,0.9868071080180842,1.6,2.3,2.75,2.25,highd_external,severity,Strong TTC,750,0.0131928919819156,0.0999999999999996,0.0499999999999998,L3–D1,1.31928919819156
+1,3,pi_sd,1.0,1.55,2.2,2.4,2.2,highd_external,severity,Stopping-distance,750,0.0,0.0,0.0,L3–D1,0.0
+1,3,rss_longitudinal,1.0,1.55,2.2,2.4,2.2,highd_external,severity,RSS longitudinal,750,0.0,0.0,0.0,L3–D1,0.0
+2,3,star,0.9974160206718344,1.15,1.9,2.1,1.9,highd_external,frequency,Upper bound,387,0.0,0.0,0.0,L3–D2,0.0
+2,3,pi,0.7777777777777775,1.25,,,1.75,highd_external,frequency,Weak TTC,387,0.2196382428940568,,-0.1499999999999999,L3–D2,21.963824289405682
+2,3,pi_tuned,0.9974160206718344,1.15,1.95,2.15,1.9,highd_external,frequency,Strong TTC,387,0.0,0.05,0.0,L3–D2,0.0
+2,3,pi_sd,0.9974160206718344,1.15,1.9,2.1,1.9,highd_external,frequency,Stopping-distance,387,0.0,0.0,0.0,L3–D2,0.0
+2,3,rss_longitudinal,0.9974160206718344,1.15,1.9,2.1,1.9,highd_external,frequency,RSS longitudinal,387,0.0,0.0,0.0,L3–D2,0.0
+2,3,star,0.9936493441145876,1.4,2.1,2.4,2.1,highd_external,severity,Upper bound,387,0.0,0.0,0.0,L3–D2,0.0
+2,3,pi,0.670685459576291,1.55,,,1.9,highd_external,severity,Weak TTC,387,0.3229638845382967,,-0.2000000000000001,L3–D2,32.29638845382967
+2,3,pi_tuned,0.9936493441145876,1.4,2.2,2.65,2.2,highd_external,severity,Strong TTC,387,0.0,0.1,0.1,L3–D2,0.0
+2,3,pi_sd,0.9936493441145876,1.4,2.1,2.4,2.1,highd_external,severity,Stopping-distance,387,0.0,0.0,0.0,L3–D2,0.0
+2,3,rss_longitudinal,0.9936493441145876,1.4,2.1,2.4,2.1,highd_external,severity,RSS longitudinal,387,0.0,0.0,0.0,L3–D2,0.0
+1,4,star,0.9969135802469136,1.2,2.0,2.3,2.0,highd_external,frequency,Upper bound,648,0.0,0.0,0.0,L4–D1,0.0
+1,4,pi,0.7175925925925927,1.4,,,1.9,highd_external,frequency,Weak TTC,648,0.2793209876543209,,-0.1,L4–D1,27.93209876543209
+1,4,pi_tuned,0.9876543209876544,1.2,2.05,2.5,2.05,highd_external,frequency,Strong TTC,648,0.0092592592592591,0.0499999999999998,0.0499999999999998,L4–D1,0.9259259259259099
+1,4,pi_sd,0.9969135802469136,1.2,2.0,2.3,2.0,highd_external,frequency,Stopping-distance,648,0.0,0.0,0.0,L4–D1,0.0
+1,4,rss_longitudinal,0.9969135802469136,1.2,2.0,2.3,2.0,highd_external,frequency,RSS longitudinal,648,0.0,0.0,0.0,L4–D1,0.0
+1,4,star,0.9930456726725668,1.5,2.35,2.65,2.3,highd_external,severity,Upper bound,648,0.0,0.0,0.0,L4–D1,0.0
+1,4,pi,0.6039087079507575,1.85,,,2.05,highd_external,severity,Weak TTC,648,0.3891369647218095,,-0.25,L4–D1,38.913696472180945
+1,4,pi_tuned,0.9738051405110868,1.5,2.55,3.05,2.4,highd_external,severity,Strong TTC,648,0.0192405321614802,0.1999999999999997,0.1,L4–D1,1.92405321614802
+1,4,pi_sd,0.9930456726725668,1.5,2.35,2.65,2.3,highd_external,severity,Stopping-distance,648,0.0,0.0,0.0,L4–D1,0.0
+1,4,rss_longitudinal,0.9930456726725668,1.5,2.35,2.65,2.3,highd_external,severity,RSS longitudinal,648,0.0,0.0,0.0,L4–D1,0.0
+2,4,star,1.0000000000000002,1.15,1.75,1.95,1.75,highd_external,frequency,Upper bound,555,0.0,0.0,0.0,L4–D2,0.0
+2,4,pi,0.8504504504504504,1.25,,,1.8,highd_external,frequency,Weak TTC,555,0.1495495495495498,,0.05,L4–D2,14.95495495495498
+2,4,pi_tuned,0.9909909909909912,1.15,1.75,2.0,1.75,highd_external,frequency,Strong TTC,555,0.0090090090090089,0.0,0.0,L4–D2,0.9009009009008899
+2,4,pi_sd,1.0000000000000002,1.15,1.75,1.95,1.75,highd_external,frequency,Stopping-distance,555,0.0,0.0,0.0,L4–D2,0.0
+2,4,rss_longitudinal,1.0000000000000002,1.15,1.75,1.95,1.75,highd_external,frequency,RSS longitudinal,555,0.0,0.0,0.0,L4–D2,0.0
+2,4,star,1.0,1.4,2.0,2.25,2.0,highd_external,severity,Upper bound,555,0.0,0.0,0.0,L4–D2,0.0
+2,4,pi,0.7541290273578346,1.55,,,1.95,highd_external,severity,Weak TTC,555,0.2458709726421654,,-0.05,L4–D2,24.58709726421654
+2,4,pi_tuned,0.978326856528247,1.4,2.05,2.3,1.95,highd_external,severity,Strong TTC,555,0.0216731434717529,0.0499999999999998,-0.05,L4–D2,2.16731434717529
+2,4,pi_sd,1.0,1.4,2.0,2.25,2.0,highd_external,severity,Stopping-distance,555,0.0,0.0,0.0,L4–D2,0.0
+2,4,rss_longitudinal,1.0,1.4,2.0,2.25,2.0,highd_external,severity,RSS longitudinal,555,0.0,0.0,0.0,L4–D2,0.0
+1,5,star,0.9958932238193022,1.4,2.2,2.5,2.2,highd_external,frequency,Upper bound,1461,0.0,0.0,0.0,L5–D1,0.0
+1,5,pi,0.561259411362081,1.95,,,1.95,highd_external,frequency,Weak TTC,1461,0.4346338124572212,,-0.2500000000000002,L5–D1,43.46338124572212
+1,5,pi_tuned,0.9664613278576322,1.4,2.35,3.05,2.2,highd_external,frequency,Strong TTC,1461,0.02943189596167,0.1499999999999999,0.0,L5–D1,2.943189596167
+1,5,pi_sd,0.9958932238193022,1.4,2.2,2.5,2.2,highd_external,frequency,Stopping-distance,1461,0.0,0.0,0.0,L5–D1,0.0
+1,5,rss_longitudinal,0.9958932238193022,1.4,2.2,2.5,2.2,highd_external,frequency,RSS longitudinal,1461,0.0,0.0,0.0,L5–D1,0.0
+1,5,star,0.9926605816605384,1.7,2.45,2.85,2.45,highd_external,severity,Upper bound,1461,0.0,0.0,0.0,L5–D1,0.0
+1,5,pi,0.4668254145605967,,,,2.1,highd_external,severity,Weak TTC,1461,0.5258351670999417,,-0.3500000000000001,L5–D1,52.58351670999417
+1,5,pi_tuned,0.9435037132748926,1.7,2.85,,2.45,highd_external,severity,Strong TTC,1461,0.0491568683856458,0.3999999999999999,0.0,L5–D1,4.9156868385645796
+1,5,pi_sd,0.9926605816605384,1.7,2.5,2.85,2.45,highd_external,severity,Stopping-distance,1461,0.0,0.0499999999999998,0.0,L5–D1,0.0
+1,5,rss_longitudinal,0.9926605816605384,1.7,2.5,2.85,2.45,highd_external,severity,RSS longitudinal,1461,0.0,0.0499999999999998,0.0,L5–D1,0.0
+2,5,star,0.9988925802879288,1.1,1.75,2.0,1.75,highd_external,frequency,Upper bound,903,0.0,0.0,0.0,L5–D2,0.0
+2,5,pi,0.8128460686600221,1.2,,,1.7,highd_external,frequency,Weak TTC,903,0.1860465116279068,,-0.05,L5–D2,18.60465116279068
+2,5,pi_tuned,0.980066445182724,1.1,1.8,2.15,1.75,highd_external,frequency,Strong TTC,903,0.0188261351052048,0.05,0.0,L5–D2,1.88261351052048
+2,5,pi_sd,0.997785160575858,1.1,1.8,2.0,1.75,highd_external,frequency,Stopping-distance,903,0.0011074197120708,0.05,0.0,L5–D2,0.11074197120708
+2,5,rss_longitudinal,0.9988925802879288,1.1,1.8,2.0,1.8,highd_external,frequency,RSS longitudinal,903,0.0,0.05,0.05,L5–D2,0.0
+2,5,star,0.9980829635353192,1.35,2.05,2.35,2.05,highd_external,severity,Upper bound,903,0.0,0.0,0.0,L5–D2,0.0
+2,5,pi,0.7254636484002545,1.45,,,1.8,highd_external,severity,Weak TTC,903,0.2726193151350649,,-0.2499999999999997,L5–D2,27.26193151350649
+2,5,pi_tuned,0.9608592354538183,1.35,2.25,2.75,2.05,highd_external,severity,Strong TTC,903,0.0372237280815009,0.2000000000000001,0.0,L5–D2,3.72237280815009
+2,5,pi_sd,0.9958498413362308,1.35,2.05,2.4,2.05,highd_external,severity,Stopping-distance,903,0.0022331221990884,0.0,0.0,L5–D2,0.22331221990884
+2,5,rss_longitudinal,0.9980829635353192,1.35,2.05,2.4,2.05,highd_external,severity,RSS longitudinal,903,0.0,0.0,0.0,L5–D2,0.0
+1,6,star,1.0000000000000002,1.2,1.9,2.2,1.9,highd_external,frequency,Upper bound,357,0.0,0.0,0.0,L6–D1,0.0
+1,6,pi,0.7114845938375352,1.45,,,1.95,highd_external,frequency,Weak TTC,357,0.288515406162465,,0.05,L6–D1,28.851540616246503
+1,6,pi_tuned,0.997198879551821,1.2,2.0,2.25,1.95,highd_external,frequency,Strong TTC,357,0.0028011204481792,0.1,0.05,L6–D1,0.28011204481792
+1,6,pi_sd,1.0000000000000002,1.2,1.9,2.2,1.9,highd_external,frequency,Stopping-distance,357,0.0,0.0,0.0,L6–D1,0.0
+1,6,rss_longitudinal,1.0000000000000002,1.2,1.9,2.2,1.9,highd_external,frequency,RSS longitudinal,357,0.0,0.0,0.0,L6–D1,0.0
+1,6,star,1.0,1.45,2.2,2.45,2.2,highd_external,severity,Upper bound,357,0.0,0.0,0.0,L6–D1,0.0
+1,6,pi,0.615778986570529,1.85,,,2.0,highd_external,severity,Weak TTC,357,0.384221013429471,,-0.2000000000000001,L6–D1,38.4221013429471
+1,6,pi_tuned,0.9940331310281306,1.45,2.3,2.85,2.3,highd_external,severity,Strong TTC,357,0.0059668689718693,0.0999999999999996,0.0999999999999996,L6–D1,0.5966868971869299
+1,6,pi_sd,1.0,1.45,2.2,2.45,2.2,highd_external,severity,Stopping-distance,357,0.0,0.0,0.0,L6–D1,0.0
+1,6,rss_longitudinal,1.0,1.45,2.2,2.45,2.2,highd_external,severity,RSS longitudinal,357,0.0,0.0,0.0,L6–D1,0.0
+2,6,star,1.0000000000000002,1.1,1.7,2.0,1.7,highd_external,frequency,Upper bound,204,0.0,0.0,0.0,L6–D2,0.0
+2,6,pi,0.862745098039216,1.15,,,1.8,highd_external,frequency,Weak TTC,204,0.1372549019607842,,0.1,L6–D2,13.725490196078418
+2,6,pi_tuned,1.0000000000000002,1.1,1.7,2.1,1.7,highd_external,frequency,Strong TTC,204,0.0,0.0,0.0,L6–D2,0.0
+2,6,pi_sd,1.0000000000000002,1.1,1.7,2.0,1.7,highd_external,frequency,Stopping-distance,204,0.0,0.0,0.0,L6–D2,0.0
+2,6,rss_longitudinal,1.0000000000000002,1.1,1.7,2.0,1.7,highd_external,frequency,RSS longitudinal,204,0.0,0.0,0.0,L6–D2,0.0
+2,6,star,1.0000000000000002,1.3,2.15,2.4,2.15,highd_external,severity,Upper bound,204,0.0,0.0,0.0,L6–D2,0.0
+2,6,pi,0.7666289993106465,1.4,,,1.95,highd_external,severity,Weak TTC,204,0.2333710006893536,,-0.1999999999999999,L6–D2,23.33710006893536
+2,6,pi_tuned,1.0000000000000002,1.3,2.15,2.65,2.15,highd_external,severity,Strong TTC,204,0.0,0.0,0.0,L6–D2,0.0
+2,6,pi_sd,1.0000000000000002,1.3,2.15,2.4,2.15,highd_external,severity,Stopping-distance,204,0.0,0.0,0.0,L6–D2,0.0
+2,6,rss_longitudinal,1.0000000000000002,1.3,2.15,2.4,2.15,highd_external,severity,RSS longitudinal,204,0.0,0.0,0.0,L6–D2,0.0

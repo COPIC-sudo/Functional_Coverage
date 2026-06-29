@@ -1,0 +1,81 @@
+reference_dataset,external_dataset,weight_mode,controller,controller_label,metric,ngsim_value,highd_value,highd_minus_ngsim
+ngsim_pooled,highd_external,frequency,star,Upper bound,saturation,0.9943750256613791,0.9970844266733314,0.0027094010119522727
+ngsim_pooled,highd_external,frequency,star,Upper bound,delta_abs_q50_s,0.95,1.15,0.19999999999999996
+ngsim_pooled,highd_external,frequency,star,Upper bound,delta_abs_q90_s,1.5,1.85,0.3500000000000001
+ngsim_pooled,highd_external,frequency,star,Upper bound,delta_abs_q95_s,1.7,2.1,0.40000000000000013
+ngsim_pooled,highd_external,frequency,star,Upper bound,delta_rel_q90_s,1.5,1.8,0.30000000000000004
+ngsim_pooled,highd_external,frequency,star,Upper bound,sat_gap_vs_star,0.0,0.0,0.0
+ngsim_pooled,highd_external,frequency,star,Upper bound,delta90_penalty_vs_star_s,0.0,0.0,0.0
+ngsim_pooled,highd_external,frequency,star,Upper bound,delta_rel90_penalty_vs_star_s,0.0,0.0,0.0
+ngsim_pooled,highd_external,frequency,pi,Weak TTC,saturation,0.4998334861611032,0.6736223916031492,0.173788905442046
+ngsim_pooled,highd_external,frequency,pi,Weak TTC,delta_abs_q50_s,,1.4,
+ngsim_pooled,highd_external,frequency,pi,Weak TTC,delta_abs_q90_s,,,
+ngsim_pooled,highd_external,frequency,pi,Weak TTC,delta_abs_q95_s,,,
+ngsim_pooled,highd_external,frequency,pi,Weak TTC,delta_rel_q90_s,1.55,1.75,0.19999999999999996
+ngsim_pooled,highd_external,frequency,pi,Weak TTC,sat_gap_vs_star,0.49454153950027596,0.32346203507018223,-0.17107950443009373
+ngsim_pooled,highd_external,frequency,pi,Weak TTC,delta90_penalty_vs_star_s,,,
+ngsim_pooled,highd_external,frequency,pi,Weak TTC,delta_rel90_penalty_vs_star_s,0.050000000000000044,-0.050000000000000044,-0.10000000000000009
+ngsim_pooled,highd_external,frequency,pi_tuned,Strong TTC,saturation,0.9492931145387109,0.9736765379649304,0.024383423426219464
+ngsim_pooled,highd_external,frequency,pi_tuned,Strong TTC,delta_abs_q50_s,0.95,1.15,0.19999999999999996
+ngsim_pooled,highd_external,frequency,pi_tuned,Strong TTC,delta_abs_q90_s,1.7,1.9,0.19999999999999996
+ngsim_pooled,highd_external,frequency,pi_tuned,Strong TTC,delta_abs_q95_s,,2.3,
+ngsim_pooled,highd_external,frequency,pi_tuned,Strong TTC,delta_rel_q90_s,1.5,1.8,0.30000000000000004
+ngsim_pooled,highd_external,frequency,pi_tuned,Strong TTC,sat_gap_vs_star,0.04508191112266824,0.023407888708401048,-0.02167402241426719
+ngsim_pooled,highd_external,frequency,pi_tuned,Strong TTC,delta90_penalty_vs_star_s,0.19999999999999996,0.04999999999999982,-0.15000000000000013
+ngsim_pooled,highd_external,frequency,pi_tuned,Strong TTC,delta_rel90_penalty_vs_star_s,0.0,0.0,0.0
+ngsim_pooled,highd_external,frequency,pi_sd,Stopping-distance,saturation,0.9614463437666797,0.9937523428714238,0.032305999104744076
+ngsim_pooled,highd_external,frequency,pi_sd,Stopping-distance,delta_abs_q50_s,0.95,1.15,0.19999999999999996
+ngsim_pooled,highd_external,frequency,pi_sd,Stopping-distance,delta_abs_q90_s,1.55,1.85,0.30000000000000004
+ngsim_pooled,highd_external,frequency,pi_sd,Stopping-distance,delta_abs_q95_s,1.95,2.15,0.19999999999999996
+ngsim_pooled,highd_external,frequency,pi_sd,Stopping-distance,delta_rel_q90_s,1.45,1.8,0.3500000000000001
+ngsim_pooled,highd_external,frequency,pi_sd,Stopping-distance,sat_gap_vs_star,0.03292868189469944,0.003332083801907637,-0.029596598092791804
+ngsim_pooled,highd_external,frequency,pi_sd,Stopping-distance,delta90_penalty_vs_star_s,0.050000000000000044,0.0,-0.050000000000000044
+ngsim_pooled,highd_external,frequency,pi_sd,Stopping-distance,delta_rel90_penalty_vs_star_s,-0.050000000000000044,0.0,0.050000000000000044
+ngsim_pooled,highd_external,frequency,rss_longitudinal,RSS longitudinal,saturation,0.9542383474527943,0.9914198842100884,0.037181536757294076
+ngsim_pooled,highd_external,frequency,rss_longitudinal,RSS longitudinal,delta_abs_q50_s,0.95,1.15,0.19999999999999996
+ngsim_pooled,highd_external,frequency,rss_longitudinal,RSS longitudinal,delta_abs_q90_s,1.6,1.85,0.25
+ngsim_pooled,highd_external,frequency,rss_longitudinal,RSS longitudinal,delta_abs_q95_s,2.25,2.15,-0.10000000000000009
+ngsim_pooled,highd_external,frequency,rss_longitudinal,RSS longitudinal,delta_rel_q90_s,1.45,1.8,0.3500000000000001
+ngsim_pooled,highd_external,frequency,rss_longitudinal,RSS longitudinal,sat_gap_vs_star,0.0401366782085848,0.005664542463242994,-0.0344721357453418
+ngsim_pooled,highd_external,frequency,rss_longitudinal,RSS longitudinal,delta90_penalty_vs_star_s,0.10000000000000009,0.0,-0.10000000000000009
+ngsim_pooled,highd_external,frequency,rss_longitudinal,RSS longitudinal,delta_rel90_penalty_vs_star_s,-0.050000000000000044,0.0,0.050000000000000044
+ngsim_pooled,highd_external,severity,star,Upper bound,saturation,0.9724220103313826,0.9922299139425435,0.019807903611160804
+ngsim_pooled,highd_external,severity,star,Upper bound,delta_abs_q50_s,1.2,1.4,0.19999999999999996
+ngsim_pooled,highd_external,severity,star,Upper bound,delta_abs_q90_s,1.85,2.2,0.3500000000000001
+ngsim_pooled,highd_external,severity,star,Upper bound,delta_abs_q95_s,2.25,2.55,0.2999999999999998
+ngsim_pooled,highd_external,severity,star,Upper bound,delta_rel_q90_s,1.8,2.15,0.34999999999999987
+ngsim_pooled,highd_external,severity,star,Upper bound,sat_gap_vs_star,0.0,0.0,0.0
+ngsim_pooled,highd_external,severity,star,Upper bound,delta90_penalty_vs_star_s,0.0,0.0,0.0
+ngsim_pooled,highd_external,severity,star,Upper bound,delta_rel90_penalty_vs_star_s,0.0,0.0,0.0
+ngsim_pooled,highd_external,severity,pi,Weak TTC,saturation,0.46642792763871316,0.5942878226772863,0.12785989503857315
+ngsim_pooled,highd_external,severity,pi,Weak TTC,delta_abs_q50_s,,1.75,
+ngsim_pooled,highd_external,severity,pi,Weak TTC,delta_abs_q90_s,,,
+ngsim_pooled,highd_external,severity,pi,Weak TTC,delta_abs_q95_s,,,
+ngsim_pooled,highd_external,severity,pi,Weak TTC,delta_rel_q90_s,1.65,1.9,0.25
+ngsim_pooled,highd_external,severity,pi,Weak TTC,sat_gap_vs_star,0.5059940826926694,0.39794209126525715,-0.10805199142741229
+ngsim_pooled,highd_external,severity,pi,Weak TTC,delta90_penalty_vs_star_s,,,
+ngsim_pooled,highd_external,severity,pi,Weak TTC,delta_rel90_penalty_vs_star_s,-0.15000000000000013,-0.25,-0.09999999999999987
+ngsim_pooled,highd_external,severity,pi_tuned,Strong TTC,saturation,0.9114046630862112,0.9461404997177281,0.034735836631516914
+ngsim_pooled,highd_external,severity,pi_tuned,Strong TTC,delta_abs_q50_s,1.2,1.4,0.19999999999999996
+ngsim_pooled,highd_external,severity,pi_tuned,Strong TTC,delta_abs_q90_s,2.25,2.45,0.20000000000000018
+ngsim_pooled,highd_external,severity,pi_tuned,Strong TTC,delta_abs_q95_s,,,
+ngsim_pooled,highd_external,severity,pi_tuned,Strong TTC,delta_rel_q90_s,1.75,2.1,0.3500000000000001
+ngsim_pooled,highd_external,severity,pi_tuned,Strong TTC,sat_gap_vs_star,0.061017347245171494,0.046089414224815384,-0.01492793302035611
+ngsim_pooled,highd_external,severity,pi_tuned,Strong TTC,delta90_penalty_vs_star_s,0.3999999999999999,0.25,-0.1499999999999999
+ngsim_pooled,highd_external,severity,pi_tuned,Strong TTC,delta_rel90_penalty_vs_star_s,-0.050000000000000044,-0.04999999999999982,2.220446049250313e-16
+ngsim_pooled,highd_external,severity,pi_sd,Stopping-distance,saturation,0.9167022439013549,0.9874663230350194,0.07076407913366445
+ngsim_pooled,highd_external,severity,pi_sd,Stopping-distance,delta_abs_q50_s,1.2,1.4,0.19999999999999996
+ngsim_pooled,highd_external,severity,pi_sd,Stopping-distance,delta_abs_q90_s,2.15,2.2,0.050000000000000266
+ngsim_pooled,highd_external,severity,pi_sd,Stopping-distance,delta_abs_q95_s,,2.55,
+ngsim_pooled,highd_external,severity,pi_sd,Stopping-distance,delta_rel_q90_s,1.7,2.15,0.44999999999999996
+ngsim_pooled,highd_external,severity,pi_sd,Stopping-distance,sat_gap_vs_star,0.05571976643002774,0.004763590907524096,-0.050956175522503644
+ngsim_pooled,highd_external,severity,pi_sd,Stopping-distance,delta90_penalty_vs_star_s,0.2999999999999998,0.0,-0.2999999999999998
+ngsim_pooled,highd_external,severity,pi_sd,Stopping-distance,delta_rel90_penalty_vs_star_s,-0.10000000000000009,0.0,0.10000000000000009
+ngsim_pooled,highd_external,severity,rss_longitudinal,RSS longitudinal,saturation,0.9209837142151432,0.986337980228622,0.06535426601347871
+ngsim_pooled,highd_external,severity,rss_longitudinal,RSS longitudinal,delta_abs_q50_s,1.2,1.4,0.19999999999999996
+ngsim_pooled,highd_external,severity,rss_longitudinal,RSS longitudinal,delta_abs_q90_s,2.15,2.2,0.050000000000000266
+ngsim_pooled,highd_external,severity,rss_longitudinal,RSS longitudinal,delta_abs_q95_s,,2.6,
+ngsim_pooled,highd_external,severity,rss_longitudinal,RSS longitudinal,delta_rel_q90_s,1.75,2.15,0.3999999999999999
+ngsim_pooled,highd_external,severity,rss_longitudinal,RSS longitudinal,sat_gap_vs_star,0.0514382961162394,0.005891933713921493,-0.04554636240231791
+ngsim_pooled,highd_external,severity,rss_longitudinal,RSS longitudinal,delta90_penalty_vs_star_s,0.2999999999999998,0.0,-0.2999999999999998
+ngsim_pooled,highd_external,severity,rss_longitudinal,RSS longitudinal,delta_rel90_penalty_vs_star_s,-0.050000000000000044,0.0,0.050000000000000044

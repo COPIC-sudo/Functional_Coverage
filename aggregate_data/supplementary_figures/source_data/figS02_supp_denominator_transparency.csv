@@ -1,0 +1,25 @@
+dataset,stage_key,stage_label,count,share_of_previous,n_base_scenarios,freq_mass
+us101,raw_standardized_rows,Raw standardized rows,4802933,,,
+us101,merged_rows,Rows after ego-lead attachment merge,6146719,1.2797844567059335,,
+us101,paired_rows,Rows with valid preceding-lead attachment,5931924,0.9650553409062624,,
+us101,same_lane_rows,Same-lane paired rows,5931924,1.0,,
+us101,candidate_rows,Candidate rear-end rows,561267,0.0946180362391696,,
+us101,base_episodes_pre_duration,Base episodes before duration filter,30142,0.0537034958406605,,
+us101,base_episodes_retained,Base episodes retained after duration filter,30142,1.0,,
+us101,replicated_instances,Scenario instances after physical-uncertainty replication,90426,,30142.0,30141.99999999999
+us101,crash_instances,Modeled no-action crash instances $\mathcal{S}_{cr}$,84483,,28161.0,28160.99999999999
+us101,noncrash_instances,Extracted no-action non-crash instances $\mathcal{S}_{nc}$,5943,,1981.0,1981.0
+us101,crash_base_episodes,Base episodes contributing at least one crash instance,28161,,,
+us101,noncrash_base_episodes,Base episodes contributing only non-crash instances,1981,,,
+i80,raw_standardized_rows,Raw standardized rows,4566387,,,
+i80,merged_rows,Rows after ego-lead attachment merge,4566387,1.0,,
+i80,paired_rows,Rows with valid preceding-lead attachment,4359292,0.9546479525278956,,
+i80,same_lane_rows,Same-lane paired rows,4359226,0.9999848599267954,,
+i80,candidate_rows,Candidate rear-end rows,602561,0.1382266026124821,,
+i80,base_episodes_pre_duration,Base episodes before duration filter,49973,0.0829343419172498,,
+i80,base_episodes_retained,Base episodes retained after duration filter,49973,1.0,,
+i80,replicated_instances,Scenario instances after physical-uncertainty replication,149919,,49973.0,49972.99999999997
+i80,crash_instances,Modeled no-action crash instances $\mathcal{S}_{cr}$,134718,,44906.0,44905.99999999998
+i80,noncrash_instances,Extracted no-action non-crash instances $\mathcal{S}_{nc}$,15201,,5067.0,5066.999999999999
+i80,crash_base_episodes,Base episodes contributing at least one crash instance,44906,,,
+i80,noncrash_base_episodes,Base episodes contributing only non-crash instances,5067,,,

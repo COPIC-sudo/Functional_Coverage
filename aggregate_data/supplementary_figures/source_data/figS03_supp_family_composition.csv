@@ -1,0 +1,13 @@
+dataset,subset_display,family,share
+us101,Crash subset (severity share),braking_lead,0.7741000776932517
+us101,Crash subset (severity share),stationary_lead,0.0239450062834319
+us101,Crash subset (severity share),slower_lead,0.2019549160233163
+us101,Non-crash subset (frequency share),braking_lead,0.0
+us101,Non-crash subset (frequency share),stationary_lead,0.0136294800605754
+us101,Non-crash subset (frequency share),slower_lead,0.9863705199394244
+i80,Crash subset (severity share),braking_lead,0.6809399075854267
+i80,Crash subset (severity share),stationary_lead,0.0576300796720188
+i80,Crash subset (severity share),slower_lead,0.2614300127425545
+i80,Non-crash subset (frequency share),braking_lead,0.0
+i80,Non-crash subset (frequency share),stationary_lead,0.0371028221827511
+i80,Non-crash subset (frequency share),slower_lead,0.9628971778172488

@@ -1,0 +1,13 @@
+Item Key,Label,Unit,Reported Value,Interpretation
+nominal_sample_period_ms,Nominal sample period,ms,10.0,The 10 ms sample period supports treating timing noise as negligible.
+boundary_case_subset_size_total,Replay count,count,32.0,Thirty-two replays define a targeted HIL subset for timing and agreement checks.
+unique_boundary_groups,Boundary groups,count,16.0,Sixteen boundary groups keep the sample from being too sparse.
+distinct_sites_count,Sites,count,2.0,Both sites are represented to reduce single-site bias.
+distinct_families_count,Families,count,2.0,Both families are represented.
+distinct_uncertainty_cells_count,Uncertainty cells,count,2.0,Both uncertainty cells are represented.
+distinct_core_controllers_count,Core controllers,count,3.0,Includes the three core controllers Upper bound Strong TTC and Stopping-distance.
+boundary_side_count,Boundary sides,count,2.0,Both boundary sides are sampled to support agreement checks.
+share_braking_lead,Share braking_lead,fraction,0.5,The difficult family is not underrepresented.
+share_lowmu_slow,Share lowmu_slow,fraction,0.47,The difficult cell is not underrepresented.
+repeats_per_case,Repeats / case,count,4.0,Four repeats per case are sufficient to observe bench variability.
+case_overlap_with_carsim_matrix_rate,Overlap with CarSim matrix,fraction,1.0,The HIL subset is fully aligned with the CarSim executed-check matrix.

@@ -1,0 +1,49 @@
+dataset,stage_key,stage_label,count,share_of_previous,n_base_scenarios,freq_mass
+us101,raw_standardized_rows,Raw standardized rows,4802933,,,
+us101,merged_rows,Rows after ego-lead attachment merge,6146719,1.2797844567059335,,
+us101,paired_rows,Rows with valid preceding-lead attachment,5931924,0.9650553409062623,,
+us101,same_lane_rows,Same-lane paired rows,5931924,1.0,,
+us101,candidate_rows,Candidate rear-end rows,561267,0.09461803623916962,,
+us101,base_episodes_pre_duration,Base episodes before duration filter,30142,0.0537034958406605,,
+us101,base_episodes_retained,Base episodes retained after duration filter,30142,1.0,,
+us101,replicated_instances,Scenario instances after physical-uncertainty replication,90426,,30142.0,30141.99999999999
+us101,crash_instances,Modeled no-action crash instances $\mathcal{S}_{cr}$,84483,,28161.0,28160.99999999999
+us101,noncrash_instances,Extracted no-action non-crash instances $\mathcal{S}_{nc}$,5943,,1981.0,1981.0
+us101,crash_base_episodes,Base episodes contributing at least one crash instance,28161,,,
+us101,noncrash_base_episodes,Base episodes contributing only non-crash instances,1981,,,
+i80,raw_standardized_rows,Raw standardized rows,4566387,,,
+i80,merged_rows,Rows after ego-lead attachment merge,4566387,1.0,,
+i80,paired_rows,Rows with valid preceding-lead attachment,4359292,0.9546479525278957,,
+i80,same_lane_rows,Same-lane paired rows,4359226,0.9999848599267954,,
+i80,candidate_rows,Candidate rear-end rows,602561,0.13822660261248212,,
+i80,base_episodes_pre_duration,Base episodes before duration filter,49973,0.08293434191724987,,
+i80,base_episodes_retained,Base episodes retained after duration filter,49973,1.0,,
+i80,replicated_instances,Scenario instances after physical-uncertainty replication,149919,,49973.0,49972.99999999997
+i80,crash_instances,Modeled no-action crash instances $\mathcal{S}_{cr}$,134718,,44906.0,44905.99999999998
+i80,noncrash_instances,Extracted no-action non-crash instances $\mathcal{S}_{nc}$,15201,,5067.0,5066.999999999999
+i80,crash_base_episodes,Base episodes contributing at least one crash instance,44906,,,
+i80,noncrash_base_episodes,Base episodes contributing only non-crash instances,5067,,,
+ngsim_pooled,base_episodes_pre_duration,Base episodes before duration filter,80115,,0.0,0.0
+ngsim_pooled,base_episodes_retained,Base episodes retained after duration filter,80115,,0.0,0.0
+ngsim_pooled,candidate_rows,Candidate rear-end rows,1163828,,0.0,0.0
+ngsim_pooled,crash_base_episodes,Base episodes contributing at least one crash instance,73067,,0.0,0.0
+ngsim_pooled,crash_instances,Modeled no-action crash instances $\mathcal{S}_{cr}$,219201,,73067.0,73066.99999999997
+ngsim_pooled,merged_rows,Rows after ego-lead attachment merge,10713106,,0.0,0.0
+ngsim_pooled,noncrash_base_episodes,Base episodes contributing only non-crash instances,7048,,0.0,0.0
+ngsim_pooled,noncrash_instances,Extracted no-action non-crash instances $\mathcal{S}_{nc}$,21144,,7048.0,7047.999999999999
+ngsim_pooled,paired_rows,Rows with valid preceding-lead attachment,10291216,,0.0,0.0
+ngsim_pooled,raw_standardized_rows,Raw standardized rows,9369320,,0.0,0.0
+ngsim_pooled,replicated_instances,Scenario instances after physical-uncertainty replication,240345,,80115.0,80114.99999999996
+ngsim_pooled,same_lane_rows,Same-lane paired rows,10291150,,0.0,0.0
+highd_external,base_episodes_pre_duration,Base episodes before duration filter,8902,,0.0,0.0
+highd_external,base_episodes_retained,Base episodes retained after duration filter,8902,,0.0,0.0
+highd_external,candidate_rows,Candidate rear-end rows,513721,,0.0,0.0
+highd_external,crash_base_episodes,Base episodes contributing at least one crash instance,8003,,0.0,0.0
+highd_external,crash_instances,Modeled no-action crash instances $\mathcal{S}_{cr}$,24009,,8003.0,8003.0
+highd_external,merged_rows,Rows after ego-lead attachment merge,39725708,,0.0,0.0
+highd_external,noncrash_base_episodes,Base episodes contributing only non-crash instances,899,,0.0,0.0
+highd_external,noncrash_instances,Extracted no-action non-crash instances $\mathcal{S}_{nc}$,2697,,899.0,898.9999999999999
+highd_external,paired_rows,Rows with valid preceding-lead attachment,31555155,,0.0,0.0
+highd_external,raw_standardized_rows,Raw standardized rows,39725708,,0.0,0.0
+highd_external,replicated_instances,Scenario instances after physical-uncertainty replication,26706,,8902.0,8902.0
+highd_external,same_lane_rows,Same-lane paired rows,31555155,,0.0,0.0
